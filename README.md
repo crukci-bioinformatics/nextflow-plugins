@@ -1,4 +1,4 @@
-# CRUK-CI NextFlow Plugins.
+# CRUK-CI NextFlow Plugins
 
 A tiny public repository to host a `plugins.json` file for CRUK-CI Nextflow plugins.
 
@@ -8,4 +8,7 @@ before launching Nextflow:
 ```BASH
 export NXF_PLUGINS_TEST_REPOSITORY="https://raw.githubusercontent.com/crukci-bioinformatics/nextflow-plugins/master/plugins.json"
 ```
+
+Any new plugins or releases of existing ones need to be added to the `plugins.json` file
+in this repository to made available for our other pipelines.
 
