@@ -4,9 +4,9 @@
     "releases": [
       {
         "version": "1.0.0",
-        "date": "2026-04-08T14:44:26+01:00",
+        "date": "2026-04-08T15:42:38+01:00",
         "url": "https://github.com/crukci-bioinformatics/nf-crukci-support/releases/download/1.0.0/nf-crukci-support-1.0.0.zip",
-        "sha512sum": "89bf6a669a818af7203e319aa72b524b5b63d0126147faf725c7a03464e811b53be072974a111f075779aad056e8ee1941a3626dd22feb7cc75a1f27e1678248"
+        "sha512sum": "3323cc44a0cff0277e7536aeb6c6597f3de73ec4d6b3984a83eca5987862a8fbeeed566531d0e08583ce97f85721e92033320fc34279de72ae85727cd6954411"
       }
     ]
   }
